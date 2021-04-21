@@ -1,0 +1,88 @@
+
+
+.title{
+  font-size: 50px;
+  margin-bottom: 5%;
+}
+
+.Cancel {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  width: 50%;
+}
+
+.Cancel button {
+  width: auto;
+  background-color: rgb(250, 166, 57);
+  border: none;
+  font-size: 18px;
+  border-radius: 5px;
+  color: white;
+}
+
+.Cancel button:hover{
+  background-color: rgba(223, 238, 16, 0.911);
+
+}
+
+form {
+  background-color: rgba(255, 255, 255, 0.699);
+  box-shadow: 0px 0px 25px 2px black;
+  border-radius: 5px;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  max-width: 500px;
+}
+
+label {
+  font-weight: 700;
+  padding: 10px; 
+  display: block;
+  margin: 5px;
+}
+
+.formInput {
+  background-color: rgba(255, 255, 255, 0.753);
+  border: solid rgb(206, 205, 205) 1px;
+  outline: none;
+  height: 35px;
+  width: 100%;
+}
+
+.formInput:focus {
+  outline: none;
+}
+
+.btnSubmit, .btnCancel {
+  outline: none;
+  float: right;
+  margin: 20px;
+  padding: 6px 20px;
+  color: white;
+  border: none;
+  border-radius: 10px;
+}
+
+.btnSubmit{
+  background-color: rgb(80, 202, 80);
+}
+
+.btnCancel{
+  background-color: rgb(212, 69, 69);
+}
+
+.btnSubmit:hover{
+  background-color: rgb(104, 255, 104);
+}
+
+.btnCancel:hover{
+  background-color: rgb(253, 93, 93);
+}
+
+.btnSubmit:focus, .btnCancel:focus{
+outline: none;
+}
+
