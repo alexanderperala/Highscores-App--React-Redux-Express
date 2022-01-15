@@ -8,7 +8,7 @@ En användare kan också registrera sitt highscore och hamna på topplistan.
 ## För att starta projektet
 
 ### Steg 1
-För att installera alla beroenden (node_modules), kör kommandot: 'npm install' i client- och server mappen.
+För att installera alla beroenden (node_modules), kör kommandot: 'npm install' i både client- och server mappen.
 
 ### Steg 2
 För att starta server, kör kommandot: 'npm start' i server mappen.
